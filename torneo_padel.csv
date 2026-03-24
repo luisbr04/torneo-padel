@@ -1,55 +1,19 @@
 ﻿categoria,grupo,pareja1,pareja2,cancha,dia,hora
-,,"Gabriela Crespo
-Verónica Crespo","Rossy Bravo
-Brenda Acuna",Cancha 1 Pádel Cuenca,Martes,19:00
-,,"René Valdivieso
-Ricky Samaniego","Pedro Castro
-Martín Coronel",Cancha 1 Pádel Cuenca,Martes,20:00
-,,"Bruno Lasso
-Jorge Contreras","Félix Neyra
-Daniela Gavilánez",Cancha 1 Pádel Cuenca,Martes,21:00
-,,"Emanuel Tello
-Valentina Famoso","José González
-Sebastián Cedillo",Cancha 2 Pádel Cuenca,Martes,19:00
-,,"Félix Neyra
-Simón Cedeno","Juan Pablo Molina
-Cristian Pulla",Cancha 2 Pádel Cuenca,Martes,20:00
-,,"Daniel Lucatto
-Cristian Cabrera","Gonzalo Salvaterra
-Cristian Franco",Cancha 2 Pádel Cuenca,Martes,21:00
-,,"Pablo Reinoso
-Luigi Maldonado","Pablo Carrión
-Carlos Vintimilla",Cancha 2 Pádel Cuenca,Martes,22:00
-,,"Tatiana González
-Diani Guillén","Caty Batallas
-Clau Ullauri",Cancha 3 Break Point,Martes,19:00
-,,"José Carrasco
-Xavi Molina","Martín Serrano
-Mattias Goercke",Cancha 3 Break Point,Martes,20:00
-,,"Luis Landívar
-Martín Vallejo","Isaac Arteaga
-Franco Fernandez",Cancha 3 Break Point,Martes,21:00
-,,"Emilio Cordero
-José Merchán","Juan Diego Palacios
-Joaquín Mora",Cancha 4 Break Point,Martes,19:00
-,,"Isaac Arteaga
-Franco Fernandez","Emilio Cordero
-José Merchán",Cancha 4 Break Point,Martes,20:00
-,,"Joshe Carrasco
-Daniel Maldonado","Rodrigo Uribe
-Tomás Vásquez",Cancha 4 Break Point,Martes,21:00
-,,"Henry Solano
-Jason Solano","Tomas Campoverde
-Joaquín Ochoa",Cancha 4 Break Point,Martes,22:00
-,,"Jonattan Ochoa
-René Alvarado","Sebas Ordóñez
-Santi Padrón",Cancha 5 Break Point,Martes,19:00
-,,"Daniel Loyola
-Jaime Vintimilla","Sebas Abril
-Andy Castro",Cancha 5 Break Point,Martes,20:00
-,,"Jorge Maldonado
-Santiago Cordero","Josele Jaramillo
-Mathjis-Van Der Ham",Cancha 5 Break Point,Martes,21:00
-,,"Juan Salamea
-Esteban Vanegas","Santiago Castillo
-Ramuntcho Arrijuria",Cancha 5 Break Point,Martes,22:00
+,,Gabriela Crespo/Verónica Crespo,Rossy Bravo/Brenda Acuna,Cancha 1 Pádel Cuenca,Martes,19:00
+,,René Valdivieso/Ricky Samaniego,Pedro Castro/Martín Coronel,Cancha 1 Pádel Cuenca,Martes,20:00
+,,Bruno Lasso/Jorge Contreras,Félix Neyra/Daniela Gavilánez,Cancha 1 Pádel Cuenca,Martes,21:00
+,,Emanuel Tello/Valentina Famoso,José González/Sebastián Cedillo,Cancha 2 Pádel Cuenca,Martes,19:00
+,,Félix Neyra/Simón Cedeno,Juan Pablo Molina/Cristian Pulla,Cancha 2 Pádel Cuenca,Martes,20:00
+,,Daniel Lucatto/Cristian Cabrera,Gonzalo Salvaterra/Cristian Franco,Cancha 2 Pádel Cuenca,Martes,21:00
+,,Pablo Reinoso/Luigi Maldonado,Pablo Carrión/Carlos Vintimilla,Cancha 2 Pádel Cuenca,Martes,22:00
+,,Tatiana González/Diani Guillén,Caty Batallas/Clau Ullauri,Cancha 3 Break Point,Martes,19:00
+,,José Carrasco/Xavi Molina,Martín Serrano/Mattias Goercke,Cancha 3 Break Point,Martes,20:00
+,,Luis Landívar/Martín Vallejo,Isaac Arteaga/Franco Fernandez,Cancha 3 Break Point,Martes,21:00
+,,Emilio Cordero/José Merchán,Juan Diego Palacios/Joaquín Mora,Cancha 4 Break Point,Martes,19:00
+,,Isaac Arteaga/Franco Fernandez,Emilio Cordero/José Merchán,Cancha 4 Break Point,Martes,20:00
+,,Joshe Carrasco/Daniel Maldonado,Rodrigo Uribe/Tomás Vásquez,Cancha 4 Break Point,Martes,21:00
+,,Henry Solano/Jason Solano,Tomas Campoverde/Joaquín Ochoa,Cancha 4 Break Point,Martes,22:00
+,,Jonattan Ochoa/René Alvarado,Sebas Ordóñez/Santi Padrón,Cancha 5 Break Point,Martes,19:00
+,,Daniel Loyola/Jaime Vintimilla,Sebas Abril/Andy Castro,Cancha 5 Break Point,Martes,20:00
+,,Jorge Maldonado/Santiago Cordero,Josele Jaramillo/Mathjis-Van Der Ham,Cancha 5 Break Point,Martes,21:00
+,,Juan Salamea/Esteban Vanegas,Santiago Castillo/Ramuntcho Arrijuria,Cancha 5 Break Point,Martes,22:00
